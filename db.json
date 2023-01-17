@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "book": [
+    {
+      "name": "book1-12",
+      "quantity": "301",
+      "price": "302",
+      "id": 1673884601435
+    },
+    {
+      "name": "book3",
+      "quantity": "900",
+      "price": "789",
+      "id": 1673884924013
+    },
+    {
+      "name": "book4-90",
+      "quantity": "901",
+      "price": "897",
+      "id": 1673884961195
+    },
+    {
+      "id": 1673885087638,
+      "name": "book5",
+      "quantity": "099",
+      "price": "789"
+    },
+    {
+      "id": 1673885749532,
+      "name": "book10",
+      "quantity": "8999",
+      "price": "89"
+    },
+    {
+      "id": 1673885976571,
+      "name": "book11",
+      "quantity": "700",
+      "price": "900"
+    }
+  ]
+}

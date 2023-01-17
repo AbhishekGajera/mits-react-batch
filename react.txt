@@ -1,0 +1,9 @@
+what is reactjs
+project setup
+file and folder structure
+component
+import/ export
+props
+state ( useState )
+forms // uncontrolled
+forms // controlled
